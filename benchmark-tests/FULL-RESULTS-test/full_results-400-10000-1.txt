@@ -1,0 +1,10 @@
+latency_ns: 433
+latency_ns: 455
+latency_ns: 438
+latency_ns: 449
+latency_ns: 456
+latency_ns: 461
+latency_ns: 445
+latency_ns: 442
+latency_ns: 450
+latency_ns: 459

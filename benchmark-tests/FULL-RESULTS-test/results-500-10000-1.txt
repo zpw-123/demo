@@ -1,0 +1,10 @@
+latency_ns: 580
+latency_ns: 575
+latency_ns: 574
+latency_ns: 572
+latency_ns: 578
+latency_ns: 582
+latency_ns: 560
+latency_ns: 557
+latency_ns: 567
+latency_ns: 557

@@ -1,0 +1,1 @@
+cmd_/home/zpw/HME-Quartz-broadwell-master/build/src/dev/nvmemul.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/zpw/HME-Quartz-broadwell-master/build/src/dev/nvmemul.ko /home/zpw/HME-Quartz-broadwell-master/build/src/dev/nvmemul.o /home/zpw/HME-Quartz-broadwell-master/build/src/dev/nvmemul.mod.o;  true

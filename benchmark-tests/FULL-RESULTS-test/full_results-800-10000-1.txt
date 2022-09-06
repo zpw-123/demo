@@ -1,0 +1,7 @@
+latency_ns: 933
+latency_ns: 927
+latency_ns: 928
+latency_ns: 900
+latency_ns: 919
+latency_ns: 918
+latency_ns: 914

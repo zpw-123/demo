@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/memlat.dir/memlat.c.o  -o memlat  -Wl,-rpath,/home/zpw/HME-Quartz-broadwell-master/build/src/lib ../../src/lib/libnvmemul.so -lpthread -ldl -lconfig -lnuma -lrt -lm -lgomp 

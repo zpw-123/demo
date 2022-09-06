@@ -1,0 +1,1 @@
+cmd_/home/zpw/HME-Quartz-broadwell-master/build/src/dev/nvmemul.mod := { echo  /home/zpw/HME-Quartz-broadwell-master/build/src/dev/pmc.o;  echo; } > /home/zpw/HME-Quartz-broadwell-master/build/src/dev/nvmemul.mod

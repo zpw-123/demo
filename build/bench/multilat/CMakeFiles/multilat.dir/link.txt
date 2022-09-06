@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/multilat.dir/multilat.c.o  -o multilat  -Wl,-rpath,/home/zpw/HME-Quartz-broadwell-master/build/src/lib ../../src/lib/libnvmemul.so -lpthread -ldl -lconfig -lnuma -lrt -lm -lgomp 

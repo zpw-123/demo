@@ -1,0 +1,10 @@
+latency_ns: 224
+latency_ns: 214
+latency_ns: 223
+latency_ns: 222
+latency_ns: 224
+latency_ns: 224
+latency_ns: 221
+latency_ns: 215
+latency_ns: 216
+latency_ns: 218

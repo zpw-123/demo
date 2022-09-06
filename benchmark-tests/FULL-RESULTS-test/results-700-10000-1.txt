@@ -1,0 +1,10 @@
+latency_ns: 801
+latency_ns: 811
+latency_ns: 815
+latency_ns: 787
+latency_ns: 804
+latency_ns: 811
+latency_ns: 797
+latency_ns: 813
+latency_ns: 820
+latency_ns: 798

@@ -1,0 +1,10 @@
+latency_ns: 342
+latency_ns: 342
+latency_ns: 326
+latency_ns: 330
+latency_ns: 328
+latency_ns: 331
+latency_ns: 334
+latency_ns: 326
+latency_ns: 335
+latency_ns: 332
